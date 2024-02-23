@@ -6,9 +6,11 @@ After finished and ordering from `JLCPCB` I spotted a mistake that I swapped USB
 
 ## Problem fixed ##
 * [ ] Fixing swapped D- D+ USB trace
- 
+
 
 ## Bluepill USB C PCB ##
 ![Bluepill USB C](./doc/Bluepill-USB-C-01.png)
+
 ![Bluepill USB C](./doc/Bluepill-USB-C-02.png)
+
 ![Bluepill USB C](./doc/Bluepill-USB-C-03.png)
